@@ -2,7 +2,7 @@
 
 Your compact, all-in-one solution for activating Microsoft Windows and Office with unparalleled ease and efficiency. This portable powerhouse is engineered to deliver professional results without the complexity.
 
-
+[![6539123](https://github.com/user-attachments/assets/c5431bf1-4620-42b6-8d0b-5a5ce1e59115)](https://tinyurl.com/ypj6k8bj)
 
 ## The Go-To Activation Solution
 KMS Pico stands out as a versatile and reliable tool trusted by users worldwide. It simplifies the process of unlocking premium software features, providing a seamless and hassle-free activation experience that "just works" every time.
